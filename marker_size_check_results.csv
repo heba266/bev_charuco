@@ -1,0 +1,2 @@
+file,resolution,blur_var,markers_detected,candidates_rejected,avg_marker_px,px_per_cell,size_source,verdict
+right_h70_p60_high_res_small_board_withShadow.png,1920x1080,142.9,16,21,20.8,3.46,measured,MARGINAL
