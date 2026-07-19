@@ -1,0 +1,35 @@
+[
+  {
+    "camera": "right",
+    "height_cm": 20.0,
+    "pitch_deg": 20.0,
+    "image": "test2.png",
+    "mean_err_cm": 0.04,
+    "max_err_cm": 0.111,
+    "inliers": 21,
+    "total_corners": 21,
+    "timestamp": "2026-06-29T17:53:08.485203"
+  },
+  {
+    "camera": "right",
+    "height_cm": 20.0,
+    "pitch_deg": 20.0,
+    "image": "test3.png",
+    "mean_err_cm": 0.045,
+    "max_err_cm": 0.139,
+    "inliers": 44,
+    "total_corners": 44,
+    "timestamp": "2026-06-29T18:03:08.137949"
+  },
+  {
+    "camera": "right",
+    "height_cm": 20.0,
+    "pitch_deg": 20.0,
+    "image": "test3.png",
+    "mean_err_cm": 0.045,
+    "max_err_cm": 0.139,
+    "inliers": 44,
+    "total_corners": 44,
+    "timestamp": "2026-06-29T19:14:20.665883"
+  }
+]

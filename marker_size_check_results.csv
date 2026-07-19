@@ -1,2 +1,38 @@
 file,resolution,blur_var,markers_detected,candidates_rejected,avg_marker_px,px_per_cell,size_source,verdict
+live_check_960x720_01.png,960x720,1419.7,44,63,36.6,6.1,measured,USABLE
+right_h70_p60_high_res.png,1920x1080,46.1,0,1,26.2,4.36,estimated (0 detected — rough guess),USABLE (+BLURRY)
+right_h70_p60_high_res_small.png,1920x1080,49.3,0,16,26.2,4.36,estimated (0 detected — rough guess),USABLE (+BLURRY)
+live_check_1920x1200_01.png,1920x1200,684.1,44,59,25.5,4.25,measured,USABLE
+live_check_1280x720_01.png,1280x720,940.0,44,54,24.2,4.03,measured,USABLE
 right_h70_p60_high_res_small_board_withShadow.png,1920x1080,142.9,16,21,20.8,3.46,measured,MARGINAL
+front_h59_p45.png,640x480,946.4,0,27,8.7,1.45,estimated (0 detected — rough guess),TOO SMALL
+front_h59_p60.png,640x480,1019.7,0,29,8.7,1.45,estimated (0 detected — rough guess),TOO SMALL
+front_h59_p75.png,640x480,1174.0,0,38,8.7,1.45,estimated (0 detected — rough guess),TOO SMALL
+front_h70_p45.png,640x480,802.9,0,8,8.7,1.45,estimated (0 detected — rough guess),TOO SMALL
+front_h70_p60.png,640x480,869.2,0,9,8.7,1.45,estimated (0 detected — rough guess),TOO SMALL
+front_h70_p75.png,640x480,932.5,0,11,8.7,1.45,estimated (0 detected — rough guess),TOO SMALL
+front_h85_p45.png,640x480,730.2,0,7,8.7,1.45,estimated (0 detected — rough guess),TOO SMALL
+front_h85_p60.png,640x480,694.3,0,6,8.7,1.45,estimated (0 detected — rough guess),TOO SMALL
+front_h85_p75.png,640x480,717.0,0,7,8.7,1.45,estimated (0 detected — rough guess),TOO SMALL
+left_h59_p45.png,640x480,1169.5,0,16,8.7,1.45,estimated (0 detected — rough guess),TOO SMALL
+left_h59_p60.png,640x480,1493.2,0,25,8.7,1.45,estimated (0 detected — rough guess),TOO SMALL
+left_h59_p75.png,640x480,1579.0,0,37,8.7,1.45,estimated (0 detected — rough guess),TOO SMALL
+left_h70_p45.png,640x480,1037.1,0,2,8.7,1.45,estimated (0 detected — rough guess),TOO SMALL
+left_h70_p60.png,640x480,1363.4,0,10,8.7,1.45,estimated (0 detected — rough guess),TOO SMALL
+left_h70_p75.png,640x480,1310.0,0,10,8.7,1.45,estimated (0 detected — rough guess),TOO SMALL
+left_h85_p45.png,640x480,954.6,0,3,8.7,1.45,estimated (0 detected — rough guess),TOO SMALL
+left_h85_p75.png,640x480,1099.2,0,7,8.7,1.45,estimated (0 detected — rough guess),TOO SMALL
+left_h86_p60.png,640x480,968.6,0,3,8.7,1.45,estimated (0 detected — rough guess),TOO SMALL
+right_h59_p45.png,640x480,927.2,0,31,8.7,1.45,estimated (0 detected — rough guess),TOO SMALL
+right_h59_p60.png,640x480,1197.6,0,40,8.7,1.45,estimated (0 detected — rough guess),TOO SMALL
+right_h59_p75.png,640x480,1475.7,0,49,8.7,1.45,estimated (0 detected — rough guess),TOO SMALL
+right_h70_p45.png,640x480,1217.8,0,32,8.7,1.45,estimated (0 detected — rough guess),TOO SMALL
+right_h70_p60.png,640x480,1130.6,0,11,8.7,1.45,estimated (0 detected — rough guess),TOO SMALL
+right_h70_p60_defualt_res_small_withoutshadow.png,640x480,97.7,0,14,8.7,1.45,estimated (0 detected — rough guess),TOO SMALL
+right_h70_p64_near_defualt_res.png,640x480,425.3,0,12,8.7,1.45,estimated (0 detected — rough guess),TOO SMALL
+right_h70_p75.png,640x480,1192.3,0,19,8.7,1.45,estimated (0 detected — rough guess),TOO SMALL
+right_h85_p45.png,640x480,1091.0,0,33,8.7,1.45,estimated (0 detected — rough guess),TOO SMALL
+right_h85_p60.png,640x480,858.9,0,11,8.7,1.45,estimated (0 detected — rough guess),TOO SMALL
+right_h85_p75.png,640x480,794.0,0,4,8.7,1.45,estimated (0 detected — rough guess),TOO SMALL
+right_h85_p75_2.png,640x480,788.8,0,8,8.7,1.45,estimated (0 detected — rough guess),TOO SMALL
+right_h70_p60_defualt_res_small.png,640x480,286.8,7,29,7.8,1.31,measured,TOO SMALL
